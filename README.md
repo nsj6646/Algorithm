@@ -1,2 +1,2 @@
 # Algorithms
-Algorithms that I implemented
+Algorithms I implemented
