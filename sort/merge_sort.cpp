@@ -1,3 +1,10 @@
+/**
+ * 
+ * File: merge_sort.cpp
+ * Updated: 2019.03.29
+ * Author: nsj6646@naver.com
+ * 
+ **/
 #include <cstdio>
 
 #define MAX_N   100
